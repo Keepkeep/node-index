@@ -11,7 +11,7 @@
 - 中间件笔记归纳类
 
   - [Shiro安全框架回顾](./study/shiro/shiro.md)
-  - [Security安全框架学习记录](./study/shiro/spring-security.md)
+  - [Security安全框架学习记录](./study/java/spring-security.md)
 
 - 基础知识归纳类
 
