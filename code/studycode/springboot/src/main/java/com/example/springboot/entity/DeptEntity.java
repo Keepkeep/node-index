@@ -25,4 +25,7 @@ public class DeptEntity implements Serializable {
 
     private String  phone;
 
+
+    private Long pid;
+
 }
