@@ -52,7 +52,8 @@ public class DgTest {
     }
 
     /**
-     * 递归
+     * 目录树结构
+     *
      */
     public static Map<String, Object> getTree(DeptEntity deptEntity ,List<DeptEntity> list){
 
